@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitrhmn1
+- 👋 Hi,  
 - 👀 I’m interested in WEB Dev
 <!-- - 👀 I’m interested in WEB Dev
 - 🌱 I’m currently learning 

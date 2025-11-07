@@ -36,12 +36,21 @@ I am currently working on:
 - **Complex Projects:** Building scalable backend systems with Django, PostgreSQL, and AWS.  
 - **Cloud Solutions:** Architecting cost-effective and reliable cloud infrastructure for large-scale applications.  
 - **Continuous Learning:** Expanding my expertise in advanced DevOps practices and emerging technologies.  
-
 ---
 
 ## 🤝 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/rohitrhmn1)
 - [Upwork](https://www.upwork.com/freelancers/rohitrhmn1)
+
+---
+
+## 💼 Payments & Services
+
+I'm available for freelance projects and technical consulting
+
+[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg)](https://www.paypal.com/ncp/payment/R3UDM5ZHQ3NHE)
+
+*All major credit cards accepted • No PayPal account required*
 
 ---
 
